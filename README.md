@@ -1,3 +1,4 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)]
 <h1 align="center">Hi 👋, I'm Arun Mohan</h1>
 <h3 align="center">A guy passionate in learning new things from Bengaluru INDIA</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif">
@@ -6,7 +7,7 @@
 
 - 📫 How to reach me **arun.m9972@gmail.com**
 
-<h3 align="left"></h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
